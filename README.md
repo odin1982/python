@@ -14,5 +14,7 @@ Changes each word to title case, where each word begins with a capital letter
 ### string.upper() - string.lower()
 You can change a string to all uppercase or all lowercase letters
 
-###Using variables in Strings
+### stripping whitespace(rstrip(),lstrip(),strip())
+Para eliminar espacios del lado derecho se usa -> rstrip()
+
 
