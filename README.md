@@ -13,4 +13,4 @@
     strip()
         Quita espacios en ambos lados
 
-### avance: removing prefixes
+### avance: pag 26 floats
